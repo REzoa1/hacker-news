@@ -1,0 +1,16 @@
+.btn {
+  background: none !important;
+  border: none;
+  padding: 0 !important;
+  text-align: left;
+  cursor: pointer;
+}
+.next {
+  padding: 0px 7px;
+  color: #1890ff;
+  font-size: 14px;
+  margin-top: 5px;
+}
+.delete {
+  color: #ccc;
+}

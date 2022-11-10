@@ -1,0 +1,12 @@
+.item:hover {
+  padding-right: 6px;
+  transition: 0.15s linear;
+  padding-left: 10px;
+}
+
+.container {
+  text-align: right;
+}
+.score {
+  color: #00000073;
+}
